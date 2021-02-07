@@ -37,17 +37,17 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Bo_J&theme=dark" alt="theboje" /></p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-613271%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 118 Contributions in the Year 2021
+> 🏆 120 Contributions in the Year 2021
  > 
 > 📦 367.3 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 6 Public Repositories 
+> 📜 7 Public Repositories 
  > 
 > 🔑 17 Private Repositories  
  > 

@@ -36,9 +36,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Bo_J&theme=dark" alt="theboje" /></p>
 
-<!-- 
-TODO Add more advanced Wakatime stats, cf : https://github.com/marketplace/actions/profile-readme-development-stats
--->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h3 align="left">Visitors:</h3>
 <p><img align="center" src="https://visitor-badge.glitch.me/badge?page_id=TheBoje" alt="theboje" /></p>
 

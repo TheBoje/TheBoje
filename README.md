@@ -41,7 +41,7 @@
 
 **🐱 My Github Data** 
 
-> 🏆 120 Contributions in the Year 2021
+> 🏆 118 Contributions in the Year 2021
  > 
 > 📦 367.3 kB Used in Github's Storage 
  > 
@@ -115,10 +115,6 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/TheBoje/TheBoje/main/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->

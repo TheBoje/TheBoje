@@ -31,8 +31,8 @@
 <p align="left">
   <table align="center">
     <tr>
-      <td><a href="https://linkedin.com/in/louis-leenart-708994178" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="louis-leenart-708994178" height="30" width="40"/></a>
-      <td><a href="https://discord.gg/Bo-J#2786" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Bo-J#2786" height="30" width="40"/></a> 
+      <td><a href="https://linkedin.com/in/louis-leenart-708994178" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="louis-leenart-708994178" height="40" width="40"/></a>
+      <td><a href="https://discord.gg/Bo-J#2786" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Bo-J#2786" height="40" width="40"/></a> 
   </table>
 </p>
 

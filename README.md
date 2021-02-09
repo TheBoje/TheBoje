@@ -7,8 +7,8 @@
 - 🎯 I love working on **Game Jams**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <table>
+<p align="center"> 
+  <table align="center">
     <tr>
       <td><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
       <td><a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
@@ -29,16 +29,21 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/louis-leenart-708994178" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="louis-leenart-708994178" height="30" width="40" /></a>
-<a href="https://discord.gg/Bo-J#2786" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Bo-J#2786" height="30" width="40" /></a> 
+  <table align="center">
+    <tr>
+      <td><a href="https://linkedin.com/in/louis-leenart-708994178" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="louis-leenart-708994178" height="30" width="40"/></a>
+      <td><a href="https://discord.gg/Bo-J#2786" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Bo-J#2786" height="30" width="40"/></a> 
+  </table>
 </p>
 
 <h3 align="left">Some stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheBoje&show_icons=true&theme=dark&count_private=true" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theboje&theme=dark&count_private=true&" alt="theboje" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Bo_J&theme=dark" alt="theboje" /></p>
+<p align="center">
+  <table align="center">
+    <tr><td><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheBoje&show_icons=true&theme=dark&count_private=true" />
+    <tr><td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theboje&theme=dark&count_private=true&" alt="theboje" />
+    <tr><td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Bo_J&theme=dark" alt="theboje" />
+  </table>
+</p>
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-613271%20lines%20of%20code-blue)

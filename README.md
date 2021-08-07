@@ -89,16 +89,16 @@ Sunday       96 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JSON                     9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-cpp                      9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -115,7 +115,7 @@ Java                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2021
+ Last Updated on 07/08/2021
 <!--END_SECTION:waka-->
 
 <h3 align="left">Visitors:</h3>

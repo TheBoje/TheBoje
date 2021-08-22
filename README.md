@@ -89,17 +89,16 @@ Sunday       96 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C++                      15 mins             ████████████████████████░   98.12% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.88%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-loup                     15 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  15 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -116,7 +115,7 @@ Java                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2021
+ Last Updated on 22/08/2021
 <!--END_SECTION:waka-->
 
 <h3 align="left">Visitors:</h3>

@@ -52,7 +52,7 @@
 
 > 🏆 357 Contributions in the Year 2021
  > 
-> 📦 418.7 kB Used in Github's Storage 
+> 📦 418.8 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -119,7 +119,7 @@ Java                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2021
+ Last Updated on 12/09/2021
 <!--END_SECTION:waka-->
 
 <h3 align="left">Visitors:</h3>

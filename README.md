@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Science student</h3>
 
 - 🔭 I’m currently studying [Computer Science at the University of Poitiers](http://formations.univ-poitiers.fr/fr/index/autre-diplome-niveau-master-AM/autre-diplome-niveau-master-AM/cmi-informatique-JD2XQGVY.html)
-- 💬 Ask me about **CS:GO or Keyboards** <!-- TODO Ajouter un svg d'ergodox -->
+- 💬 Ask me about **Procedural Generation or Keyboards** <!-- TODO Ajouter un svg d'ergodox -->
 - 📫 How to reach me on Discord : **Bo-J#2786**
 - 🎯 I love working on **Game Jams**
 

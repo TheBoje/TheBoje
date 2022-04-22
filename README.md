@@ -38,9 +38,9 @@
 </p>
 
 <h3 align="left">Some stats</h3>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheBoje&show_icons=true&theme=dark&count_private=true" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theboje&theme=dark&count_private=true&" alt="theboje" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Bo_J&theme=dark" alt="theboje" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheBoje&show_icons=true&theme=dark&count_private=true&hide_border=true" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theboje&theme=dark&count_private=true&hide_border=true" alt="theboje" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Bo_J&theme=dark&langs_count=5&hide_border=true" alt="theboje" /></p>
 
 
 <!--START_SECTION:waka--><!--END_SECTION:waka-->

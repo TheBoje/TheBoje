@@ -2,11 +2,11 @@
 <h3 align="center">A Computer Science student</h3>
 
 - 🔭 I’m currently studying [Computer Science at the University of Poitiers](http://formations.univ-poitiers.fr/fr/index/autre-diplome-niveau-master-AM/autre-diplome-niveau-master-AM/cmi-informatique-JD2XQGVY.html)
-- 💬 Ask me about **Procedural Generation or Keyboards** <!-- TODO Ajouter un svg d'ergodox -->
+- 💬 Ask me about **Mechanical Keyboards** <!-- TODO Ajouter un svg d'ergodox -->
 - 📫 How to reach me on Discord : **Bo-J#2786**
 - 🎯 I love working on **Game Jams**
 <!--
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <p align="center"> 
   <table align="center">
     <tr>
@@ -28,7 +28,7 @@
 </p>
 -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
   <table align="center">
     <tr>
@@ -37,14 +37,11 @@
   </table>
 </p>
 
-<h3 align="left">Some stats:</h3>
-<p align="center">
-  <table align="center">
-    <tr><td><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheBoje&show_icons=true&theme=dark&count_private=true" />
-    <tr><td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theboje&theme=dark&count_private=true&" alt="theboje" />
-    <tr><td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Bo_J&theme=dark" alt="theboje" />
-  </table>
-</p>
+<h3 align="left">Some stats</h3>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheBoje&show_icons=true&theme=dark&count_private=true" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theboje&theme=dark&count_private=true&" alt="theboje" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Bo_J&theme=dark" alt="theboje" /></p>
+
 
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
 

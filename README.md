@@ -1,9 +1,3 @@
-<style>
-th, td {
-  border: 1px white;
-}
-</style>
-
 <h1 align="center">Hi there 👋, I'm Louis Leenart aka. TheBoje</h1>
 <h3 align="center">A Computer Science student</h3>
 

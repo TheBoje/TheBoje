@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Louis Leenart aka. TheBoje</h1>
 <h3 align="center">A Computer Science student</h3>
 
-- 🔭 I’m currently studying [Computer Science at the University of Poitiers](http://formations.univ-poitiers.fr/fr/index/autre-diplome-niveau-master-AM/autre-diplome-niveau-master-AM/cmi-informatique-JD2XQGVY.html)
+- 🔭 I’m currently in internship at [Illumination Studios Paris](https://www.illuminationstudiosparis.com/) and completing my [Master degree at the University of Poitiers](http://formations.univ-poitiers.fr/fr/index/autre-diplome-niveau-master-AM/autre-diplome-niveau-master-AM/cmi-informatique-JD2XQGVY.html)!
 - :keyboard: Ask me about **Mechanical Keyboards**
-- 📫 How to reach me on Discord : **Bo-J#2786**
+- 📫 How to reach me on Discord : **bo_j**
 - 🎯 I love working on **Game Jams**
 <!--
 <h3 align="left">Languages and Tools</h3>
@@ -32,7 +32,7 @@
 <p align="left">
   <table align="center">
     <tr>
-      <td><a href="https://linkedin.com/in/louis-leenart-708994178" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="louis-leenart" height="40" width="40"/></a>
+      <td><a href="https://www.linkedin.com/in/louis-leenart/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="louis-leenart" height="40" width="40"/></a>
       <td><a href="https://discord.gg/Bo-J#2786" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Bo-J#2786" height="40" width="40"/></a>
   </table>
 </p>
@@ -40,8 +40,6 @@
 <h3 align="left">Some stats</h3>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheBoje&show_icons=true&theme=dark&count_private=true&hide_border=true" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theboje&theme=dark&count_private=true&hide_border=true" alt="theboje" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Bo_J&theme=dark&langs_count=5&hide_border=true" alt="theboje" /></p>
-
 
 <h3 align="left">Visitors</h3>
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=TheBoje" alt="theboje" /></p>
+<p><img src="https://badges.pufler.dev/visits/theboje/theboje" alt="theboje" /></p>

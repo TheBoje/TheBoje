@@ -37,9 +37,11 @@
   </table>
 </p>
 
+<!--
 <h3 align="left">Some stats</h3>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheBoje&show_icons=true&theme=dark&count_private=true&hide_border=true" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theboje&theme=dark&count_private=true&hide_border=true" alt="theboje" /></p>
 
 <h3 align="left">Visitors</h3>
 <p><img src="https://badges.pufler.dev/visits/theboje/theboje" alt="theboje" /></p>
+-->

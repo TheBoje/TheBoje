@@ -1,7 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Louis Leenart aka. TheBoje</h1>
-<h3 align="center">A Computer Science student</h3>
+<h3 align="center">A Software Engineer</h3>
 
-- 🔭 I’m currently in internship at [Illumination Studios Paris](https://www.illuminationstudiosparis.com/) and completing my [Master degree at the University of Poitiers](http://formations.univ-poitiers.fr/fr/index/autre-diplome-niveau-master-AM/autre-diplome-niveau-master-AM/cmi-informatique-JD2XQGVY.html)!
+- 🔭 I’m currently working at [Quantic Dream](https://www.quanticdream.com) as a Software Engineer in the R&D Tools team.
+- 🎓 I recently completed my [Master degree at the University of Poitiers](http://formations.univ-poitiers.fr/fr/index/autre-diplome-niveau-master-AM/autre-diplome-niveau-master-AM/cmi-informatique-JD2XQGVY.html) and my [Engineering degree in Computer Science](https://formations.univ-poitiers.fr/fr/index/cmi-cursus-master-en-ingenierie-CMI/cmi-cursus-master-en-ingenierie-CMI/cmi-informatique-JD2XQGVY.html).
 - :keyboard: Ask me about **Mechanical Keyboards**
 - 📫 How to reach me on Discord : **bo_j**
 - 🎯 I love working on **Game Jams**
@@ -26,7 +27,7 @@
   </table>
 
 </p>
--->
+
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
@@ -36,7 +37,7 @@
       <td><a href="https://discord.gg/Bo-J#2786" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Bo-J#2786" height="40" width="40"/></a>
   </table>
 </p>
-
+-->
 <!--
 <h3 align="left">Some stats</h3>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheBoje&show_icons=true&theme=dark&count_private=true&hide_border=true" /></p>
